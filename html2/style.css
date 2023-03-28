@@ -1,0 +1,58 @@
+body{
+    background-image: url(romancath.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+   
+   
+}
+h1{
+    font-size: 50px;
+    text-shadow: 5px 5px 5px brown,0px -5px 5px grey;
+    color: black;
+    
+
+    font-weight: bold;
+    
+    
+}
+#count-el{
+
+    font-size: 100px;
+    color: darkcyan;
+    text-shadow: 5px 5px 5px black, 0px -5px 5px red;
+}
+#save-el{
+    font-style: italic;
+   font-size: 20px;
+   font-weight:900;
+   color: whitesmoke;
+   text-shadow: 5px 5px 5px blue, 0px -5px 5px grey;
+}
+
+ 
+   
+    
+
+#increment-btn{
+    background-color:  blue;
+    font-size: 30px;
+    border-radius: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#save-btn{
+    background-color: lightgrey;
+    font-size: 20px;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+button#increment-btn:hover{
+    background-color: darkblue;
+}
+button#save-btn:hover{
+    
+    background-color: gray;
+}
